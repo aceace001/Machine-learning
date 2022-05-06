@@ -9,4 +9,6 @@
 
 4.Any random images need to be provided in "object detection" and "object_zebra".
 
-5.Specific information and reports is written in the paper "CAP6610 final report.
+5.A YOLOv3 weight file needs to be downloaded from website "https://pjreddie.com/darknet/yolo/"
+
+6.Specific information and reports is written in the paper "CAP6610 final report.
